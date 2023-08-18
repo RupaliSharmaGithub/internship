@@ -18,3 +18,4 @@ The whole system is coded in core PHP and MySql.
 * Navigate to the installation in your browser.
 * Done :)
 ## Authors
+https://github.com/RupaliSharmaGithub/internship.git
